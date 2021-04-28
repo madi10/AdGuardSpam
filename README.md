@@ -1,0 +1,2 @@
+# AdGuardSpam
+Blokir Situs Penipuan
