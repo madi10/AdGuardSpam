@@ -1,7 +1,5 @@
 # List Filter Personal
 
-IP atau Address yang ada disini, merupakan hasil kumpulan dari pesan penipuan.
+IP atau Address yang ada disini digunakan untuk memblokir akses kesalahsatu situs tertentu. dengan menggunakan AdGuard atau sejenisnya.
 
-sengaja saya kumpulkan untuk mengurangi korban dari modus penipuan.
-
-Ayo bantu menambahkan daftar situs yang berindikasi penipuan. agar keluarga kita terhindar dari penipuan.
+Gunakanlah dengan bijak.
