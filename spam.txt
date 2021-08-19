@@ -8,5 +8,5 @@
 ||cdn.shopee.ws^$third-party
 ||whatsapp-inc627.blogspot.com^$third-party
 ###levelmaxblock
-||https://cdn.jsdelivr.net/gh/Indzign/InSEO@master/levelmaxblock.js$script
+||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 !
