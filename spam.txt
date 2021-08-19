@@ -7,7 +7,22 @@
 ||shopee.ws^$third-party
 ||cdn.shopee.ws^$third-party
 ||whatsapp-inc627.blogspot.com^$third-party
+||xspytrader.com ^$third-party
+||mail.xspytrader.com^$third-party
+||webinar.xspytrader.com^$third-party
+||cpanel.xspytrader.com^$third-party
+||cpcalendars.xspytrader.com^$third-party
+||webmail.xspytrader.com^$third-party
+||www.xspytrader.com^$third-party
+||offer.xspytrader.com^$third-party
+||cpcontacts.xspytrader.com^$third-party
+||webdisk.xspytrader.com^$third-party
+||autodiscover.xspytrader.com^$third-party
+
 ###levelmaxblock
+
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
+||app.clickfunnels.com/assets/*$script
+
 !
