@@ -1,3 +1,6 @@
+!
+! Title: Filter ku
+!
 ||www.dana-bpjs2021.ga^$third-party
 ||share.likeitlite.com^$third-party
 ||api.shopee.ws^$third-party
@@ -6,3 +9,4 @@
 ||whatsapp-inc627.blogspot.com^$third-party
 ###levelmaxblock
 ||https://cdn.jsdelivr.net/gh/Indzign/InSEO@master/levelmaxblock.js$script
+!
