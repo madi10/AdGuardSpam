@@ -1,6 +1,8 @@
-www.dana-bpjs2021.ga
-share.likeitlite.com
-api.shopee.ws
-shopee.ws
-cdn.shopee.ws
-whatsapp-inc627.blogspot.com
+||www.dana-bpjs2021.ga^$third-party
+||share.likeitlite.com^$third-party
+||api.shopee.ws^$third-party
+||shopee.ws^$third-party
+||cdn.shopee.ws^$third-party
+||whatsapp-inc627.blogspot.com^$third-party
+###levelmaxblock
+||https://cdn.jsdelivr.net/gh/Indzign/InSEO@master/levelmaxblock.js$script
