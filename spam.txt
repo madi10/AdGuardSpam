@@ -18,6 +18,17 @@
 ||cpcontacts.xspytrader.com^$third-party
 ||webdisk.xspytrader.com^$third-party
 ||autodiscover.xspytrader.com^$third-party
+||www.prakerja.vip^
+||prakerja.vip^
+||daftar.prakerja.vip^
+||pjiohx.shop^
+||coffeeshop.store^
+||cpanel.coffeeshop.store^
+||webmail.coffeeshop.store^
+||mail.coffeeshop.store^
+||webdisk.coffeeshop.store^
+||hostmaster.coffeeshop.store^
+||www.coffeeshop.store^
 
 ###levelmaxblock
 
