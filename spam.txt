@@ -87,9 +87,12 @@
 ||sg-dl.vid007.com^
 
 ###levelmaxblock
+##videoPreviewBg
+##linkVideoThumb
 
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
 ||app.clickfunnels.com/assets/*$script
+||ei.phncdn.com/www-static/js/promo-banner.js$script
 
 !
