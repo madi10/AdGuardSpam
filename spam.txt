@@ -93,6 +93,10 @@
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
 ||app.clickfunnels.com/assets/*$script
-||ei.phncdn.com/www-static/js/promo-banner.js$script
+||ei.phncdn.com/www-static/js/*$script
+||hubt.pornhub.com/js/ht.js$script
+||www.pornhub.com/_xa/ads_batch$script
+||static-hw.xvideos-cdn.com^$script
+
 
 !
