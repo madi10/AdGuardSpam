@@ -1,6 +1,17 @@
-!
-! Title: Filter ku
-!
+[Adblock Plus 2.0]
+! Version: 1
+! Title: SPAMK1
+! Description: Filter coba
+! Last modified: 26 Sep 2021 00:27 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/madi10/daftarspam/
+! Licence: 
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/madi10/daftarspam/issues
+! GitHub pull requests: https://github.com/madi10/daftarspam/pulls
+! 
+! ---------------------- advert blocking filters ----------------------!
 ||www.dana-bpjs2021.ga^$third-party
 ||share.likeitlite.com^$third-party
 ||api.shopee.ws^$third-party
@@ -85,11 +96,9 @@
 ||m.videobuddy.vid007.com^
 ||sg-api.videobuddy.vid007.com^
 ||sg-dl.vid007.com^
-
 ###levelmaxblock
 ##videoPreviewBg
 ##linkVideoThumb
-
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
 ||app.clickfunnels.com/assets/*$script
@@ -97,6 +106,3 @@
 ||hubt.pornhub.com/js/ht.js$script
 ||www.pornhub.com/_xa/ads_batch$script
 ||static-hw.xvideos-cdn.com^$script
-
-
-!
