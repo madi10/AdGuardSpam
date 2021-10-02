@@ -106,3 +106,6 @@
 ||hubt.pornhub.com/js/ht.js$script
 ||www.pornhub.com/_xa/ads_batch$script
 ||static-hw.xvideos-cdn.com^$script
+||::ffff:6815:eadd^
+||0:0:0:0:0:ffff:6815:eadd^
+||0000:0000:0000:0000:0000:ffff:6815:eadd^
