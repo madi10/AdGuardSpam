@@ -96,9 +96,7 @@
 ||m.videobuddy.vid007.com^
 ||sg-api.videobuddy.vid007.com^
 ||sg-dl.vid007.com^
-###levelmaxblock
-##videoPreviewBg
-##linkVideoThumb
+||zjmeiao.xyz^
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
 ||app.clickfunnels.com/assets/*$script
