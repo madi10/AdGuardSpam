@@ -1,0 +1,9 @@
+covid19.go.id
+mail.covid19.go.id
+www.covid19.go.id
+kipi.covid19.go.id
+pantau.covid19.go.id
+plasmakonvalesen.covid19.go.id
+www1.covid19.go.id
+lapor.covid19.go.id
+data.covid19.go.id
