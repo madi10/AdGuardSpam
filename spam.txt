@@ -2,7 +2,7 @@
 ! Version: 1
 ! Title: SPAMK1
 ! Description: Filter coba
-! Last modified: 26 Sep 2021 00:27 UTC
+! Last modified: 21 Nov 2021
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/madi10/daftarspam/
 ! Licence: 
@@ -12,90 +12,17 @@
 ! GitHub pull requests: https://github.com/madi10/daftarspam/pulls
 ! 
 ! ---------------------- advert blocking filters ----------------------!
-||www.dana-bpjs2021.ga^$third-party
-||share.likeitlite.com^$third-party
-||api.shopee.ws^$third-party
-||shopee.ws^$third-party
-||cdn.shopee.ws^$third-party
-||whatsapp-inc627.blogspot.com^$third-party
-||xspytrader.com ^$third-party
-||mail.xspytrader.com^$third-party
-||webinar.xspytrader.com^$third-party
-||cpanel.xspytrader.com^$third-party
-||cpcalendars.xspytrader.com^$third-party
-||webmail.xspytrader.com^$third-party
-||www.xspytrader.com^$third-party
-||offer.xspytrader.com^$third-party
-||cpcontacts.xspytrader.com^$third-party
-||webdisk.xspytrader.com^$third-party
-||autodiscover.xspytrader.com^$third-party
-||www.prakerja.vip^
+||www.dana-bpjs2021.ga^
+||share.likeitlite.com^
+||shopee.ws^
+||whatsapp-inc627.blogspot.com^
+||xspytrader.com ^
 ||prakerja.vip^
-||daftar.prakerja.vip^
 ||pjiohx.shop^
 ||coffeeshop.store^
-||cpanel.coffeeshop.store^
-||webmail.coffeeshop.store^
-||mail.coffeeshop.store^
-||webdisk.coffeeshop.store^
-||hostmaster.coffeeshop.store^
-||www.coffeeshop.store^
 ||ppkm-bpjs.com^
-||mail.ppkm-bpjs.com^
-||webmail.ppkm-bpjs.com^
-||cpanel.ppkm-bpjs.com^
-||www.ppkm-bpjs.com^
-||cpcontacts.ppkm-bpjs.com^
-||webdisk.ppkm-bpjs.com^
-||cpcalendars.ppkm-bpjs.com^
 ||forevernine.com^
-||islandking-my.forevernine.com^
-||islandking-static.forevernine.com^
-||mail.forevernine.com^
-||cashcow-comet.forevernine.com^
-||piggygo-comet.forevernine.com^
-||magiccoast-origin.forevernine.com^
-||islandking.forevernine.com^
-||ikpure-origin.forevernine.com^
-||piggygo-static.forevernine.com^
-||bingo-test.forevernine.com^
-||ikpure.forevernine.com^
-||www.forevernine.com^
-||cashcowen.forevernine.com^
-||ikpure-stats.forevernine.com^
-||piggygo.forevernine.com^
-||islandking-static-zen.forevernine.com^
-||islandking-share.forevernine.com^
-||cashcowen-static.forevernine.com^
-||cashcowen-stats.forevernine.com^
-||ikpure-static.forevernine.com^
-||gw-gz.forevernine.com^
-||sv-stats.forevernine.com^
-||cashcowen-origin.forevernine.com^
-||midplat.forevernine.com^
-||islandking-stats.forevernine.com^
-||gw-tw.forevernine.com^
-||gw-def.forevernine.com^
-||static.forevernine.com^
-||piggygo-origin.forevernine.com^
-||piggygo-stats.forevernine.com^
-||islandking-th.forevernine.com^
-||islandking-test.forevernine.com^
-||islandking-dsa.forevernine.com^
-||islandking-ecdn.forevernine.com^
-||ikpure-test.forevernine.com^
-||islandking-static-huawei.forevernine.com^
 ||vid007.com^
-||api.videobuddy.vid007.com^
-||test-m.videobuddy.vid007.com^
-||ssltest.vid007.com^
-||dl.vid007.com^
-||ssltest1.vid007.com^
-||videobuddy.vid007.com^
-||vn-dl.vid007.com^
-||m.videobuddy.vid007.com^
-||sg-api.videobuddy.vid007.com^
-||sg-dl.vid007.com^
 ||zjmeiao.xyz^
 ||cdn.jsdelivr.net/gh/Indzign/InSEO@master/*$script
 ||jsdelivr.net/*/levelmaxblock.js$script,3p
