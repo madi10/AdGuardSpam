@@ -1,0 +1,123 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: SPAMK1
+! Description: Filter coba
+! Last modified: 21 Nov 2021
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/madi10/daftarspam/
+! Licence: 
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/madi10/daftarspam/issues
+! GitHub pull requests: https://github.com/madi10/daftarspam/pulls
+! 
+! ---------------------- advert blocking filters ----------------------!
+||windowsupdate.com^
+||7.download.windowsupdate.com^
+||0019ef-1.l.windowsupdate.com^
+||00203b-1.l.windowsupdate.com^
+||15.au.b1.download.windowsupdate.com^
+||00121b-1.l.windowsupdate.com^
+||001e0f-1.l.windowsupdate.com^
+||00118b-1.l.windowsupdate.com^
+||wsus.ds.www.download.windowsupdate.com^
+||download.windowsupdate.com^
+||0020d6-1.l.windowsupdate.com^
+||00234a-1.l.windowsupdate.com^
+||3.download.windowsupdate.com^
+||0006e0-1.l.windowsupdate.com^
+||002651-1.l.windowsupdate.com^
+||9.au.download.windowsupdate.com^
+||00239d-1.l.windowsupdate.com^
+||return.b1.download.windowsupdate.com^
+||0017bf-1.l.windowsupdate.com^
+||000c6c-1.l.windowsupdate.com^
+||2.au.b1.download.windowsupdate.com^
+||11.au.www.download.windowsupdate.com^
+||001e32-1.l.windowsupdate.com^
+||00184e-1.l.windowsupdate.com^
+||0024e4-1.l.windowsupdate.com^
+||aupl.ds.download.windowsupdate.com^
+||002518-1.l.windowsupdate.com^
+||7.au.b1.download.windowsupdate.com^
+||3.au.download.windowsupdate.com^
+||00237c-1.l.windowsupdate.com^
+||002633-1.l.windowsupdate.com^
+||0021b7-1.l.windowsupdate.com^
+||0019f4-1.l.windowsupdate.com^
+||fg.v4.download.windowsupdate.com^
+||000a75-1.l.windowsupdate.com^
+||000712-1.l.windowsupdate.com^
+||0023f6-1.l.windowsupdate.com^
+||ctldl.windowsupdate.com^
+||000304-1.l.windowsupdate.com^
+||az.or.windowsupdate.com^
+||001a34-1.l.windowsupdate.com^
+||16.au.b1.download.windowsupdate.com^
+||00245c-1.l.windowsupdate.com^
+||return.aupl.v4.b1.download.windowsupdate.com^
+||001e3d-1.l.windowsupdate.com^
+||001b4e-1.l.windowsupdate.com^
+||000d38-1.l.windowsupdate.com^
+||oad.windowsupdate.com^
+||secure.download.windowsupdate.com^
+||8.au.b1.download.windowsupdate.com^
+||001faa-1.l.windowsupdate.com^
+||00152c-1.l.windowsupdate.com^
+||au.v4.download.windowsupdate.com^
+||au.download.windowsupdate.com^
+||000cde-1.l.windowsupdate.com^
+||fg.ds.download.windowsupdate.com^
+||0018af-1.l.windowsupdate.com^
+||0022a4-1.l.windowsupdate.com^
+||7.au.download.windowsupdate.com^
+||000f49-1.l.windowsupdate.com^
+||11.au.download.windowsupdate.com^
+||001a1e-1.l.windowsupdate.com^
+||11.au.b1.download.windowsupdate.com^
+||9.au.b1.download.windowsupdate.com^
+||000904-1.l.windowsupdate.com^
+||001c73-1.l.windowsupdate.com^
+||www.download.windowsupdate.com^
+||001a99-1.l.windowsupdate.com^
+||www.windowsupdate.com^
+||000013-1.l.windowsupdate.com^
+||002674-1.l.windowsupdate.com^
+||wsus.ds.download.windowsupdate.com^
+||aupl.v4.download.windowsupdate.com^
+||00222f-1.l.windowsupdate.com^
+||10.au.www.download.windowsupdate.com^
+||fg.ds.b1.download.windowsupdate.com^
+||16.au.download.windowsupdate.com^
+||15.au.download.windowsupdate.com^
+||000b36-1.l.windowsupdate.com^
+||000785-1.l.windowsupdate.com^
+||6.au.download.windowsupdate.com^
+||0010e8-1.l.windowsupdate.com^
+||0006a0-1.l.windowsupdate.com^
+||au.www.download.windowsupdate.com^
+||3.au.www.download.windowsupdate.com^
+||au.b1.download.windowsupdate.com^
+||wsus.ds.b1.download.windowsupdate.com^
+||ak.or.windowsupdate.com^
+||7.au.www.download.windowsupdate.com^
+||002006-1.l.windowsupdate.com^
+||000ac4-1.l.windowsupdate.com^
+||4.au.download.windowsupdate.com^
+||2.au.download.windowsupdate.com^
+||0002bb-1.l.windowsupdate.com^
+||001ef0-1.l.windowsupdate.com^
+||regional.businedownload.windowsupdate.com^
+||9.au.www.download.windowsupdate.com^
+||8.au.www.download.windowsupdate.com^
+||ds.download.windowsupdate.com^
+||10.au.download.windowsupdate.com^
+||000822-1.l.windowsupdate.com^
+||au.ds.download.windowsupdate.com^
+||return.fg.ds.b1.download.windowsupdate.com^
+||00221b-1.l.windowsupdate.com^
+||3.au.b1.download.windowsupdate.com^
+||8.au.download.windowsupdate.com^
+||b1.download.windowsupdate.com^
+||sls.update.microsoft.com^
+||fe2.update.microsoft.com^
