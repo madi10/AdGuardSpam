@@ -1,17 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 1
-! Title: SPAMK1
-! Description: Filter coba
-! Last modified: 21 Nov 2021
-! Expires: 4 days (update frequency)
-! Homepage: https://github.com/madi10/daftarspam/
-! Licence: 
-! 
-! Please report any unblocked adverts or problems
-! GitHub issues: https://github.com/madi10/daftarspam/issues
-! GitHub pull requests: https://github.com/madi10/daftarspam/pulls
-! 
-! ---------------------- advert blocking filters ----------------------!
-||windowsupdate.com^
-||sls.update.microsoft.com^
-||fe2.update.microsoft.com^
+127.0.0.1 localhost
+::1 localhost
+0.0.0.0 windowsupdate.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 fe2.update.microsoft.com
