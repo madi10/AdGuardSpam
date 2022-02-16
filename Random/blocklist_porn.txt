@@ -1,4 +1,4 @@
-livejasmin.com
+127.0.0.1 livejasmin.com
 127.0.0.1 pornhub.com
 127.0.0.1 xvideos.com
 127.0.0.1 bongacams.com
