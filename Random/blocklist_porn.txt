@@ -11874,3 +11874,9 @@
 127.0.0.1 streamtape.to
 127.0.0.1 streamtape.com
 127.0.0.1 streamtape.net
+127.0.0.1 dood.so
+127.0.0.1 streamlare.com
+127.0.0.1 sbcloud1.com
+127.0.0.1 javgg.net
+127.0.0.1 watchjavnow.xyz
+127.0.0.1 streamsb.com
