@@ -11869,3 +11869,8 @@
 127.0.0.1 pornhd.asia
 127.0.0.1 103.194.170.153
 127.0.0.1 wapsite.info
+127.0.0.1 nekolink.site
+127.0.0.1 streamtapeadblock.art
+127.0.0.1 streamtape.to
+127.0.0.1 streamtape.com
+127.0.0.1 streamtape.net
