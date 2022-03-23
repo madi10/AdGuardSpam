@@ -11875,6 +11875,8 @@
 127.0.0.1 streamtape.com
 127.0.0.1 streamtape.net
 127.0.0.1 dood.so
+127.0.0.1 doodcdn.com
+127.0.0.1 dood.video
 127.0.0.1 streamlare.com
 127.0.0.1 sbcloud1.com
 127.0.0.1 javgg.net
